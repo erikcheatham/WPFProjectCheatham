@@ -18,4 +18,4 @@ http://www.thomas-bayer.com/sqlrest/CUSTOMER/1
 a.	Hide the Textbox and Button
 b.	Change the text in the Label to “Here is the customer #X” where X was the number entered in the textbox.
 c.	Present the Customer First Name, Last Name, and City in the window  
-7.	The deliverable for the project should be the full source code of the project in a zipped file.  The project should be emailed to jpodolak@theparkingspot.com  and the developer should send a follow-up email to confirm receipt of the project email (in the event the attachment was blocked).
+7.	The deliverable for the project should be the full source code of the project in a zipped file.  The project should be emailed to the manager and the developer should send a follow-up email to confirm receipt of the project email (in the event the attachment was blocked).
